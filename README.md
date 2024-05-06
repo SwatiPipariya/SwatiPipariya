@@ -5,15 +5,13 @@
 
 - 🔭 I’m currently working on [Denasia Website](https://github.com/SwatiPipariya/denasia)
 
-- 🌱 I’m currently learning **Hibernate**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-fu6a.vercel.app/](https://portfolio-fu6a.vercel.app/)
+- 👨‍💻 Have a look at my portfolio [https://portfolio-fu6a.vercel.app/](https://portfolio-fu6a.vercel.app/)
 
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **swati.pipariya6171@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_tsMT7lhCv5o-H6SCn6KELdTAanEkMnf/view?usp=sharing](https://drive.google.com/file/d/1_tsMT7lhCv5o-H6SCn6KELdTAanEkMnf/view?usp=sharing)
+- 📄 Here's my resume [https://drive.google.com/file/d/1_tsMT7lhCv5o-H6SCn6KELdTAanEkMnf/view?usp=sharing](https://drive.google.com/file/d/1_tsMT7lhCv5o-H6SCn6KELdTAanEkMnf/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
