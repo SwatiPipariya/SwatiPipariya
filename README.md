@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **swati.pipariya6171@gmail.com**
 
-- 📄 Here's my resume [https://drive.google.com/file/d/1_tsMT7lhCv5o-H6SCn6KELdTAanEkMnf/view?usp=sharing](https://drive.google.com/file/d/1_tsMT7lhCv5o-H6SCn6KELdTAanEkMnf/view?usp=sharing)
+- 📄 Here's my resume [https://drive.google.com/file/d/1YGQJSA6RA9TJCgMWSG4l8-jkdE-GmfEa/view?usp=sharing](https://drive.google.com/file/d/1YGQJSA6RA9TJCgMWSG4l8-jkdE-GmfEa/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
