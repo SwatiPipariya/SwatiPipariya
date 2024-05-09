@@ -3,8 +3,6 @@
 <img src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" align="center" alt="coding" width="900" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swatipipariya&label=Profile%20views&color=0e75b6&style=flat" alt="swatipipariya" /> </p>
 
-- 🔭 I’m currently working on [Denasia Website](https://github.com/SwatiPipariya/denasia)
-
 - 👨‍💻 Have a look at my portfolio [https://portfolio-fu6a.vercel.app/](https://portfolio-fu6a.vercel.app/)
 
 - 💬 Ask me about **MERN Stack**
